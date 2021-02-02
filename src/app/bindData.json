@@ -1,0 +1,43 @@
+  [{
+    "id": 1,
+    "name": "Hardik",
+    "email": "hardik@gmail.com",
+    "gender": "male",
+    "url":"../assets/img/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Paresh",
+    "email": "Paresh@gmail.com",
+    "gender": "male",
+    "url":"../assets/img/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Kiran",
+    "email": "kiran@gmail.com",
+    "gender": "female",
+    "url":"../assets/img/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mahesh",
+    "email": "mahesh@gmail.com",
+    "gender": "male",
+    "url":"../assets/img/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Karan",
+    "email": "karan@gmail.com",
+    "gender": "male",
+    "url":"../assets/img/5.jpg"
+  },
+   {
+    "id": 6,
+    "name": "nagu",
+    "email": "pontey@gmail.com",
+    "gender": "male",
+    "url":"../assets/img/6.jpg"
+  }
+]

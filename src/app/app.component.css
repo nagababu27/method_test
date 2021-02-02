@@ -1,0 +1,11 @@
+button{
+   margin: 10px;
+   border: 1px solid;
+   float: left;
+   width: 150px;
+   height: 200px;
+  }
+ button img{
+  width: 150px;
+   height: 200px;
+ }

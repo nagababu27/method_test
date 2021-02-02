@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "methhub"
+    }
+  },
+  "defaultProject": "methhub",
+  "cli": {
+    "analytics": "70c84a67-16ad-4b3a-8dbf-80d2963462b8"
+  }
 }
